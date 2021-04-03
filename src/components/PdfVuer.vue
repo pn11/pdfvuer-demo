@@ -1,5 +1,4 @@
 <template>
-<!-- <pdf src="./static/relativity.pdf" :page="1"> -->
   <pdf src="https://arxiv.org/pdf/1707.08995.pdf" :page="1">
     <template slot="loading">
       loading content here...
